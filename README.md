@@ -1,5 +1,7 @@
 Architectural details of H2RDF+:
 
+http://artemis-new.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/8000/1/PD2016-0050.pdf
+
 http://www.cslab.ece.ntua.gr/~npapa/h2rdfbigdata_paper.pdf
 
 http://www.cslab.ece.ntua.gr/~npapa/sigmod15.pdf
